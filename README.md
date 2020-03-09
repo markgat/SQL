@@ -17,6 +17,6 @@ This project is an example of data analysis and engineering via SQL on Employee 
     ````
     /data
     ````
-    within the local repository by selecting the Database's Schemata/Tables/ and right-click and choose "Import/Export". From here choose to import, select file in "Filename", "Format" as csv, "Delimiter" as a comma, and then "OK".
+    within the local repository by selecting the Database's Schemata/Tables/ and right-click on the corresponding table and choose "Import/Export". From here choose to import, select corresponding file in "Filename", "Format" as csv, "Delimiter" as a comma, and then "OK".
 ![Importing](importing.png)
 4) Execute the queries within "query.sql", one at a time, in the same way as executing the schemata commands to examine data and trends!
